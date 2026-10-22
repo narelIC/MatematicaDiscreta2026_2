@@ -1,0 +1,3 @@
+x=3mod4
+x=4mod7
+x=5mod9
