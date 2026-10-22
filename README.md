@@ -1,16 +1,23 @@
 Atividade Prática de Matemática Discreta
 
 
+​Instituto de Computação (IC) - Universidade Federal de Alagoas (UFAL)
+
+
+​Informações Gerais
+
+
+
+
+​Disciplina: Matemática Discreta
+
+
+​Professor: Bruno Pimentel
+
+
 ​Período: 2026.2
 
 
-Instituição: Instituto de Computação (IC) - Universidade Federal de Alagoas (UFAL)
-
-
-Disciplina: Matemática Discreta
-
-
-Professor: Bruno Pimentel
 
 
 ​Equipe
@@ -18,16 +25,16 @@ Professor: Bruno Pimentel
 
 
 
-​GABRIELY VITORIA DA SILVA OLIVEIRA
+​Gabriely Vitoria da Silva Oliveira
 
 
-​KALYL VINICIUS DE LIMA PEIXOTO
+​Kalyl Vinicius de Lima Peixoto
 
 
-​NAREL SILVA DE OLIVEIRA
+​Narel Silva de Oliveira
 
 
-​OTAVIO FERNANDES DE OLIVEIRA
+​Otavio Fernandes de Oliveira
 
 
 
